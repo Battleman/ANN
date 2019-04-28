@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 *.pickle
-Histories/
-Weights/
+Histories*
+Weights*
